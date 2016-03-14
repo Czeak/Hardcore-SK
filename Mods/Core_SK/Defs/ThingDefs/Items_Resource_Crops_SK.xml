@@ -65,7 +65,7 @@
 	<ThingDef ParentName="ResourceBase">
 		<defName>GuttedCorpse</defName>
 		<label>Gutted Corpse</label>
-		<description>A fresh corpse, gutted and maimed. It is too mangled and mutilated to identify what it previously was. It doesn't look appealing as a food source.</description>
+		<description>A fresh corpse, gutted and maimed. It is too mangled and mutilated to identify what it previously was.</description>
     <graphicData>
 		<texPath>Things/Item/GuttedCorpse</texPath>
 		<graphicClass>Graphic_Random</graphicClass>
@@ -84,7 +84,7 @@
     		<socialPropernessMatters>true</socialPropernessMatters>
 		<ingestible>
       			<preferability>DesperateOnly</preferability>
-			<nutrition>0.45</nutrition>
+			<nutrition>0.25</nutrition>
 			<eatEffect>EatMeat</eatEffect>
 			<soundEat>RawMeat_Eat</soundEat>
       			<ingestedDirectThought>AteGuttedCorpse</ingestedDirectThought>
@@ -1262,7 +1262,7 @@
       <isMeat>true</isMeat>
     </ingestible>
     <thingCategories>
-      <li>MeatRawAll</li>
+      <li>MeatRaw</li>
     </thingCategories>
     <tickerType>Rare</tickerType>
     <comps>
@@ -1460,6 +1460,5 @@
     </thingCategories>
       <stackLimit>75</stackLimit>
    </ThingDef>
-  
-	
+
 </Resources>

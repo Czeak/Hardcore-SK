@@ -148,11 +148,7 @@
 
     			<stuffCategories>
       			<li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+      			<li>Leathery</li>
     			</stuffCategories>
     <costStuffCount>15</costStuffCount>
 		<CostList>
@@ -207,11 +203,7 @@
 		</statBases>
 		<Size>(1,2)</Size>
 		<stuffCategories>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+			<li>Leathery</li>
       		<li>Fabric</li>
 		</stuffCategories>
 		<costStuffCount>20</costStuffCount>
@@ -270,11 +262,6 @@
     <Size>(1,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      <li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>30</costStuffCount>
 		<costList>
@@ -334,11 +321,6 @@
     <Size>(1,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>40</costStuffCount>
 		<costList>
@@ -397,11 +379,6 @@
     <Size>(1,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>40</costStuffCount>
 		<costList>
@@ -460,11 +437,6 @@
     <Size>(1,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>40</costStuffCount>
 		<costList>
@@ -523,11 +495,6 @@
     <Size>(2,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>50</costStuffCount>
 		<costList>
@@ -589,11 +556,6 @@
     <Size>(2,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>50</costStuffCount>
 		<costList>
@@ -655,11 +617,6 @@
     <Size>(2,2)</Size>
 		<stuffCategories>
       		<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 		<costStuffCount>50</costStuffCount>
 		<costList>
@@ -974,11 +931,7 @@
 		</graphicData>
     			<stuffCategories>
       			<li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+      			<li>Leathery</li>
     			</stuffCategories>
     			<costStuffCount>40</costStuffCount>
 	<costList>
@@ -1114,11 +1067,7 @@
     <size>(1,1)</size>
     <stuffCategories>
       <li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+      <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>35</costStuffCount>
 	<costList>
@@ -1158,11 +1107,7 @@
     <socialPropernessMatters>true</socialPropernessMatters>
 		<stuffCategories>
 			<li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+			<li>Leathery</li>
 		</stuffCategories>
 		<costStuffCount>20</costStuffCount>
 		<costList>
@@ -1209,11 +1154,6 @@
 	</costList>
     <stuffCategories>
 			<li>Fabric</li>
-			      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
 		</stuffCategories>
 	<costStuffCount>45</costStuffCount>
     <pathCost>30</pathCost>
@@ -1312,11 +1252,7 @@
 		</statBases>
 		<stuffCategories>
 			<li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+			<li>Leathery</li>
 		</stuffCategories>
 			<costStuffCount>45</costStuffCount>
 		<costList>
@@ -1355,11 +1291,7 @@
 		</statBases>
 		<stuffCategories>
 			<li>Fabric</li>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+			<li>Leathery</li>
 		</stuffCategories>
 		<costStuffCount>50</costStuffCount>
 		<costList>
@@ -1690,7 +1622,6 @@
           <categories>
             <li>Weapons</li>
             <li>Apparel</li>
-            <li>Ammo</li>
           </categories>
         </filter>
       </fixedStorageSettings>
@@ -1700,7 +1631,6 @@
           <categories>
             <li>Weapons</li>
             <li>Apparel</li>
-            <li>Ammo</li>
           </categories>
         </filter>
       </defaultStorageSettings>
@@ -1715,18 +1645,19 @@
   </ThingDef>
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
 		<defName>ClutterShelf</defName>
 		<label>Shelf</label>
-		<thingClass>Building</thingClass>
+		<thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
 		<texPath>Things/Building/Decor/Shelf</texPath>
 		<graphicClass>Graphic_Single</graphicClass>
       <shadowData>
         <volume>(0.3, 0.6, 0.3)</volume>
       </shadowData>
-      		<drawSize>(1,1)</drawSize>
+      		<drawSize>(2,1)</drawSize>
     </graphicData>
+	    <maxStorage>1000</maxStorage>
 		<altitudeLayer>Waist</altitudeLayer>
 		<passability>PassThroughOnly</passability>
 		<fillPercent>0.5</fillPercent>
@@ -1736,11 +1667,11 @@
 	<li>Plastic</li>
 	<li>Precious</li>
 	</stuffCategories>
-	<costStuffCount>35</costStuffCount>
+	<costStuffCount>45</costStuffCount>
 		<costList>
 			<Glass>5</Glass>
 			<Rubber>5</Rubber>
-			<Spare_Parts>1</Spare_Parts>
+			<Spare_Parts>3</Spare_Parts>
 		</costList>
 		<statBases>
 			<MaxHitPoints>100</MaxHitPoints>
@@ -1749,20 +1680,16 @@
 				<Flammability>20.0</Flammability>
 		</statBases>
 		<description>A decorative shelf. Must be placed near a structural wall.</description>
-		<size>(1,1)</size>
+		<size>(2,1)</size>
         		<designationCategory>Accessories</designationCategory>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<building>
-      		<preventDeterioration>true</preventDeterioration>
+      		<preventDeterioration>false</preventDeterioration>
             <fixedStorageSettings>
                 <filter>
                     <categories>
 		<li>Textiles</li>
-		<li>HLeather</li>
-		<li>SLeather</li>
-		<li>FLeather</li>
-		<li>ELeather</li>
-		<li>WLeather</li>
+		<li>Leathers</li>
                     </categories>
           <thingDefs>
             <li>RawCotton</li>
@@ -1774,6 +1701,7 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
+    <tickerType>Normal</tickerType>
     <placeWorkers>
       <li>CommunityCoreLibrary.PlaceWorker_WallAttachment</li>
     </placeWorkers>
@@ -1823,7 +1751,7 @@
         <filter>
           <categories>
             <li>Items</li>
-            <li>Manufactured</li>
+            <li>Weapons</li>
             <li>Apparel</li>
           </categories>
         </filter>
@@ -1850,15 +1778,16 @@
 <!--================ Refrigerated Tray Rack ================-->
 
 
-  <ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>RefrigeratedTrayRack</defName>
     <label>Refrigerated Tray Rack</label>
-	<thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
-      <texPath>Things/Building/Furniture/TrayRack</texPath>
+      <texPath>Things/Building/Furniture/TrayRackx2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(3,3)</drawSize>
+      <drawSize>(2,1)</drawSize>
     </graphicData>
+    <maxStorage>400</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <fillPercent>0.4</fillPercent>
@@ -1882,7 +1811,7 @@
       <Beauty>7</Beauty>
     </statBases>
     <description>Haulers carry trays here for storage. This track rack requires power in order to keep food refrigerated.</description>
-    <size>(1,1)</size>
+    <size>(2,1)</size>
     <building>
       <preventDeterioration>true</preventDeterioration>
       <fixedStorageSettings>
@@ -1926,15 +1855,16 @@
   <!--============================== Fabric Hamper ===========================-->
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>Storage_FabricHamper</defName>
     <label>Fabric Hamper</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
     <texPath>Things/Building/Furniture/FabricHamper</texPath>
     <graphicClass>Graphic_Single</graphicClass>
-<drawSize>(4,3)</drawSize>
+	<drawSize>(4,3)</drawSize>
     </graphicData>
+    <maxStorage>1200</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>40</pathCost>
@@ -1947,32 +1877,24 @@
     </statBases>
     <description>Haulers can carry textiles here for storage.</description>
     <size>(2,1)</size>
-	<costStuffCount>20</costStuffCount>
+	<costStuffCount>70</costStuffCount>
 	<stuffCategories>
-      			<li>LeatherH</li>
-				<li>LeatherS</li>
-				<li>LeatherF</li>
-				<li>LeatherE</li>
-				<li>LeatherW</li>
+		<li>Leathery</li>
 			<li>Fabric</li>
 			<li>HF</li>
 	</stuffCategories>
 	<costList>
-			<Spare_Parts>2</Spare_Parts>
+			<Spare_Parts>4</Spare_Parts>
 	</costList>
     <filthLeaving>BuildingRubble</filthLeaving>
     <building>
-      <preventDeterioration>true</preventDeterioration>
+      <preventDeterioration>false</preventDeterioration>
       <fixedStorageSettings>
         <priority>Important</priority>
         <filter>
              <categories>
 	<li>Textiles</li>
-		<li>HLeather</li>
-		<li>SLeather</li>
-		<li>FLeather</li>
-		<li>ELeather</li>
-		<li>WLeather</li>
+	<li>Leathers</li>
           </categories>
           <thingDefs>
             <li>RawCotton</li>
@@ -1984,6 +1906,7 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
+    <tickerType>Normal</tickerType>
     <designationCategory>Accessories</designationCategory>
     <staticSunShadowHeight>0.1</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
@@ -2046,16 +1969,17 @@
   </ThingDef>
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>Storage_MedicineCabinet</defName>
     <label>Medicine Cabinet</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
     <texPath>Things/Building/Furniture/MedCab</texPath>
     <graphicClass>Graphic_Single</graphicClass>
     <ShaderType>CutoutComplex</ShaderType>
-<drawSize>(4,3)</drawSize>
+	<drawSize>(4,3)</drawSize>
     </graphicData>
+    <maxStorage>600</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>40</pathCost>
@@ -2075,14 +1999,14 @@
 	<li>Precious</li>
 	<li>Glass</li>
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>40</costStuffCount>
 		<costList>
-		<Rubber>5</Rubber>
+		<Rubber>7</Rubber>
 		<Plastic>5</Plastic>
-		<Spare_Parts>2</Spare_Parts>
+		<Spare_Parts>4</Spare_Parts>
 		</costList>
      <filthLeaving>BuildingRubble</filthLeaving>
-        <tickerType>Normal</tickerType>
+	
         <comps>
             <li>
                 <compClass>CommunityCoreLibrary.CompRefrigerated</compClass>
@@ -2107,12 +2031,19 @@
       <fixedStorageSettings>
         <priority>Important</priority>
         <filter>
-          <categories>
-	<li>BodyPartsAndImplants</li>
-        <li>Medicine</li>
-          </categories>
           <thingDefs>
             <li>Biomatter</li>
+            <li>Paraffins</li>
+            <li>SyntheticAmmonia</li>
+            <li>BioDiesel</li>
+            <li>EthanolFuel</li>
+            <li>MintLeaves</li>
+            <li>Hypericum</li>
+            <li>WildRose</li>
+            <li>aloe</li>
+            <li>HerbalMedicaKit</li>
+            <li>RawTea</li>
+            <li>RawTobacco</li>
           </thingDefs>
         </filter>
       </fixedStorageSettings>
@@ -2120,7 +2051,7 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
-        <designationCategory>Accessories</designationCategory>
+    <designationCategory>Accessories</designationCategory>
     <staticSunShadowHeight>0.2</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
 	<researchPrerequisite>HospitalBed</researchPrerequisite>
@@ -2128,15 +2059,16 @@
 
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>Storage_WoodenPalletSmall</defName>
     <label>Pallet</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
 <graphicData>
-    <texPath>Things/Building/Furniture/WoodenPallet</texPath>
+    <texPath>Things/Building/Furniture/WoodenPalletSmall</texPath>
     <graphicClass>Graphic_Single</graphicClass>
-	<drawSize>(2,3)</drawSize>
+	<drawSize>(2,1)</drawSize>
 </graphicData>
+    <maxStorage>500</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>20</pathCost>
@@ -2148,18 +2080,18 @@
       <Beauty>4</Beauty>
     </statBases>
     <description>Haulers carry metal and wood materials here for storage.</description>
-    <size>(2,3)</size>
+    <size>(2,1)</size>
     <stuffCategories>
 	<li>Metallic</li>
 	<li>Woody</li>
     </stuffCategories>
-    <costStuffCount>15</costStuffCount>
+    <costStuffCount>25</costStuffCount>
 		<costList>
-		<Spare_Parts>2</Spare_Parts>
+		<Spare_Parts>3</Spare_Parts>
 		</costList>
     <filthLeaving>BuildingRubble</filthLeaving>
     <building>
- <preventDeterioration>true</preventDeterioration>
+    <preventDeterioration>false</preventDeterioration>
       <fixedStorageSettings>
         <priority>Important</priority>
         <filter>
@@ -2172,22 +2104,24 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
-        <designationCategory>Accessories</designationCategory>
+    <tickerType>Normal</tickerType>
+    <designationCategory>Accessories</designationCategory>
     <staticSunShadowHeight>0.025</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
     <researchPrerequisite>ComfyTech</researchPrerequisite>
   </ThingDef>
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>Storage_SkipBig</defName>
     <label>Skip</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
-    <texPath>Things/Building/Furniture/Skip</texPath>
+    <texPath>Things/Building/Furniture/SkipSmall</texPath>
     <graphicClass>Graphic_Single</graphicClass>
-	<drawSize>(2,3)</drawSize>
+	<drawSize>(2,1)</drawSize>
     </graphicData>
+    <maxStorage>800</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>20</pathCost>
@@ -2202,15 +2136,15 @@
 	<li>Metallic</li>
 	<li>Woody</li>
     </stuffCategories>
-    <costStuffCount>15</costStuffCount>
+    <costStuffCount>35</costStuffCount>
 		<costList>
-		<Spare_Parts>2</Spare_Parts>
+		<Spare_Parts>5</Spare_Parts>
 		</costList>
     <description>Haulers carry metal and wood materials here for storage.</description>
-    <size>(2,3)</size>
+    <size>(2,1)</size>
     <filthLeaving>BuildingRubble</filthLeaving>
     <building>
- <preventDeterioration>true</preventDeterioration>
+    <preventDeterioration>false</preventDeterioration>
       <fixedStorageSettings>
         <priority>Important</priority>
         <filter>
@@ -2223,7 +2157,8 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
-        <designationCategory>Accessories</designationCategory>
+    <tickerType>Normal</tickerType>
+    <designationCategory>Accessories</designationCategory>
     <staticSunShadowHeight>0.025</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
    <researchPrerequisite>ComfyTechTierIV</researchPrerequisite>
@@ -2231,22 +2166,23 @@
 
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>Storage_HazMatContainer</defName>
     <label>Hazmat Container</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
 	<graphicData>
     <texPath>Things/Building/Furniture/HazMat</texPath>
     <graphicClass>Graphic_Single</graphicClass>
-<drawSize>(4,3)</drawSize>
+	<drawSize>(4,3)</drawSize>
 	</graphicData>
+    <maxStorage>500</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <castEdgeShadows>true</castEdgeShadows>
 	<pathCost>40</pathCost>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
-      <WorkToMake>1750</WorkToMake>
+      <WorkToMake>1950</WorkToMake>
       	<Flammability>5.0</Flammability>
       <Beauty>3</Beauty>
     </statBases>
@@ -2255,10 +2191,10 @@
     <stuffCategories>
 	<li>Metallic</li>
     </stuffCategories>
-    <costStuffCount>40</costStuffCount>
+    <costStuffCount>45</costStuffCount>
 		<costList>
 		<Rubber>10</Rubber>
-		<Spare_Parts>3</Spare_Parts>
+		<Spare_Parts>15</Spare_Parts>
 		</costList>
     		<filthLeaving>BuildingRubble</filthLeaving>
     <building>
@@ -2267,7 +2203,6 @@
         <priority>Important</priority>
         <filter>
           <categories>
-            <li>Weapons</li>
             <li>Ammo</li>
 			<li>RAD</li>
           </categories>
@@ -2277,7 +2212,8 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
-        <designationCategory>Accessories</designationCategory>
+    <tickerType>Normal</tickerType>
+    <designationCategory>Accessories</designationCategory>
     <staticSunShadowHeight>0.1</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
     <researchPrerequisite>ComfyTechTierVI</researchPrerequisite>
@@ -2286,27 +2222,29 @@
 
 <!--================ Clutter storage ================-->
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>ClutterResourceTable</defName>
-     <label>Item Table</label>
-    <thingClass>Building_Storage</thingClass>
+     <label>Ammo Table</label>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
-    <texPath>Things/Building/Furniture/Tables/ResourceTable</texPath>
+    <texPath>Things/Building/Furniture/Tables/ResourceTable2x1</texPath>
 	<graphicClass>Graphic_Multi</graphicClass>
-      		<drawSize>(1,1)</drawSize>
+    <drawSize>(2,1)</drawSize>
 	<ShaderType>CutoutComplex</ShaderType>
     </graphicData>
+    <maxStorage>300</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <castEdgeShadows>true</castEdgeShadows>
+	<rotatable>true</rotatable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <WorkToMake>1600</WorkToMake>
       	<Flammability>10.0</Flammability>
 	  <Beauty>5</Beauty>
     </statBases>
-    <description>A table that can hold items instead of throwing them on the floor.</description>
-    <size>(1,1)</size>
+    <description>A table that can hold ammo.</description>
+    <size>(2,1)</size>
     <stuffCategories>
 	<li>Metallic</li>
 	<li>Woody</li>
@@ -2314,20 +2252,18 @@
 	<li>Precious</li>
 	<li>Glass</li>
     </stuffCategories>
-    <costStuffCount>25</costStuffCount>
+    <costStuffCount>35</costStuffCount>
 		<costList>
 		<SteelBar>5</SteelBar>
-		<Spare_Parts>1</Spare_Parts>
+		<Spare_Parts>7</Spare_Parts>
 		</costList>
      <building>
-      <preventDeterioration>true</preventDeterioration>
+      <preventDeterioration>false</preventDeterioration>
        <fixedStorageSettings>
         <priority>Important</priority>
         <filter>
           <categories>
-			<li>Items</li>
-			<li>Weapons</li>
-			<li>Apparel</li>
+			<li>Ammo</li>
           </categories>
         </filter>
       </fixedStorageSettings>
@@ -2335,25 +2271,27 @@
     <inspectorTabs>
 	<li>ITab_Storage</li>
     </inspectorTabs>
+    <tickerType>Normal</tickerType>
     <researchPrerequisite>ComfyTechTierII</researchPrerequisite>
-        <designationCategory>Accessories</designationCategory>
+    <designationCategory>Accessories</designationCategory>
     <surfaceType>Item</surfaceType>
     </ThingDef>
 
 	
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
     <defName>ClutterMedicKitTable</defName>
     <label>Medical kit storage</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
-	<ShaderType>CutoutComplex</ShaderType>
-    <texPath>Things/Building/Furniture/Tables/MedicalKitTable/MedicKitTable</texPath>
-	<graphicClass>Graphic_Single</graphicClass>
-      	<drawSize>(1,1)</drawSize>
+		<ShaderType>CutoutComplex</ShaderType>
+		<texPath>Things/Building/Furniture/Tables/MedicalKitTable/MedicKitTablex2</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+      	<drawSize>(2,1)</drawSize>
     </graphicData>
+    <maxStorage>100</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
-	<rotatable>false</rotatable>
+	<rotatable>true</rotatable>
     <castEdgeShadows>true</castEdgeShadows>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
@@ -2362,18 +2300,18 @@
 	  <Beauty>2</Beauty>
     </statBases>
     <description>A safe way to store medicine, prosthetic parts and organs. Requires a power source.</description>
-    <size>(1,1)</size>
+    <size>(2,1)</size>
     <stuffCategories>
 	<li>Metallic</li>
 	<li>Woody</li>
 	<li>Plastic</li>
 	<li>Glass</li>
     </stuffCategories>
-    <costStuffCount>20</costStuffCount>
+    <costStuffCount>30</costStuffCount>
 		<costList>
-		<Rubber>3</Rubber>
-		<Plastic>5</Plastic>
-		<Spare_Parts>2</Spare_Parts>
+		<Rubber>7</Rubber>
+		<Plastic>4</Plastic>
+		<Spare_Parts>5</Spare_Parts>
 		</costList>
         <tickerType>Normal</tickerType>
         <comps>
@@ -2401,12 +2339,8 @@
         <priority>Important</priority>
         <filter>
           <categories>
-	<li>BodyPartsAndImplants</li>
-	<li>Medicine</li>
+			<li>Medicine</li>
           </categories>
-          <thingDefs>
-            <li>Biomatter</li>
-          </thingDefs>
         </filter>
       </fixedStorageSettings>
     </building>
@@ -2419,20 +2353,21 @@
     </ThingDef>
 
 
-	<ThingDef ParentName="FurnitureBase">
+    <ThingDef ParentName="FurnitureBase" Class="SK.ESdef">
    <defName>ClutterSmallServingTable</defName>
 	<label>Serving Table</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>SK.Building_ExtendedStorage</thingClass>
     <graphicData>
-	<ShaderType>Transparent</ShaderType>
-    	<texPath>Things/Building/Furniture/Tables/ServingTable/ServingTable_Draggable</texPath>
-	<graphicClass>Graphic_Single</graphicClass>
-      	<drawSize>(1,1)</drawSize>
+		<ShaderType>CutoutComplex</ShaderType>
+    	<texPath>Things/Building/Furniture/Tables/ServingTable2x1</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+      	<drawSize>(2,1)</drawSize>
     </graphicData>
-	<placingDraggableDimensions>1</placingDraggableDimensions>
+    <maxStorage>300</maxStorage>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <castEdgeShadows>true</castEdgeShadows>
+	<rotatable>true</rotatable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <WorkToMake>1700</WorkToMake>
@@ -2440,7 +2375,7 @@
 	  <Beauty>6</Beauty>
     </statBases>
    <description>A small table that is used for storing all kinds of meals. Requires a power source.</description>
-    <size>(1,1)</size>
+    <size>(2,1)</size>
 	<stuffCategories>
 	<li>Metallic</li>
 	<li>Woody</li>
@@ -2451,7 +2386,7 @@
 	<costList>
 			<SteelBar>15</SteelBar>
 			<Rubber>5</Rubber>
-			<Spare_Parts>1</Spare_Parts>
+			<Spare_Parts>5</Spare_Parts>
 	</costList>
          <building>
      <preventDeterioration>true</preventDeterioration>
